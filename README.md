@@ -9,4 +9,4 @@
 
 ### Preview Project
 
-<img src="Travel-The-World-AI.png" alt="Preview Project" style='width:600px; height:800px' />
+<img src="Travel-The-World-AI.png" alt="Preview Project" style='width:600px; height:1000px' />
