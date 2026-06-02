@@ -1,5 +1,5 @@
 # Travel The World
-- Create website using AI
+- Create website using Claude AI
 - Claude Code, Sonnet 4.6
 - The code was built entirely using Claude AI
 - Artificial intelligence used HTML5, CSS3 & Javascript
