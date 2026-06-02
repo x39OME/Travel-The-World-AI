@@ -9,6 +9,4 @@
 
 ### Preview Project
 
-<img src="Travel-The-World-AI.png" alt="Preview Project" />
-
-![This main img]()
+<img src="Travel-The-World-AI.png" alt="Preview Project" style='width:300px;' />
